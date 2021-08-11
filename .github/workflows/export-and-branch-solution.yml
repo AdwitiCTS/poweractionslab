@@ -27,8 +27,8 @@ on:
 env:
 #edit your values here
   ENVIRONMENT_URL: orgfc20680b.crm.dynamics.com
-  USERNAME: McDDevOps@NAO365Competency.onmicrosoft.com
-
+  CLIENT_ID: acb965c1-6efd-4546-b033-d8f088736735
+  TENANT_ID: f9d87fc4-a52f-4033-85fe-9e5b1f5d2428
 
 jobs:
   export-from-dev:
