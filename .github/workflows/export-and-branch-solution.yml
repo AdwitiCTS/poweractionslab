@@ -26,10 +26,8 @@ on:
 
 env:
 #edit your values here
-  ENVIRONMENT_URL: 'https://orgfc20680b.crm.dynamics.com'
-  APP_ID: 'acb965c1-6efd-4546-b033-d8f088736735'
-  CLIENT_SECRET: ${{ secrets.PowerPlatformSPN }}
-  TENANT_ID: 'f9d87fc4-a52f-4033-85fe-9e5b1f5d2428'
+  ENVIRONMENT_URL: https://orgfc20680b.crm.dynamics.com
+  USERNAME: adwiti@mwpcognizant.onmicrosoft.com
 
 jobs:
   export-from-dev:
